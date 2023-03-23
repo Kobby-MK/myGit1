@@ -1,0 +1,11 @@
+this is a list of browers for users
+
+Chrome
+ms edge
+firefox
+safari
+opera mini
+uc browser
+
+NB: additional contents will be added on.
+thank you
